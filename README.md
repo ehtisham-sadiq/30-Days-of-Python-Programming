@@ -1,2 +1,2 @@
 # 30-Days-of-Python-Programming
-"30days of python programming" is a repository that offers a 30-day program to learn Python with daily tutorials and exercises to improve your skills from beginner to intermediate level.
+"30days of python programming" is a repository that offers a 30-day program to learn Python with daily tutorials and exercises to improve your skills from beginner to intermediate level. This repository is a great resource for anyone looking to learn Python programming or to improve their existing skills. Whether you're a beginner or an experienced programmer, you'll find something in this repository that will help you become a more proficient Python developer.
